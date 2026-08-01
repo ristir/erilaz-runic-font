@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>uni16A0</key>
+  <dict>
+    <key>uni16E6</key>
+    <integer>-80</integer>
+  </dict>
+  <key>uni16A1</key>
+  <dict>
+    <key>uni16E6</key>
+    <integer>-80</integer>
+  </dict>
+  <key>uni16B4</key>
+  <dict>
+    <key>uni16E6</key>
+    <integer>-90</integer>
+  </dict>
+  <key>uni16B5</key>
+  <dict>
+    <key>uni16E6</key>
+    <integer>-90</integer>
+  </dict>
+  <key>uni16CF</key>
+  <dict>
+    <key>uni16E6</key>
+    <integer>-90</integer>
+  </dict>
+  <key>uni16D8</key>
+  <dict>
+    <key>uni16E6</key>
+    <integer>-90</integer>
+  </dict>
+  <key>uni16DA</key>
+  <dict>
+    <key>uni16E6</key>
+    <integer>-90</integer>
+  </dict>
+</dict>
+</plist>

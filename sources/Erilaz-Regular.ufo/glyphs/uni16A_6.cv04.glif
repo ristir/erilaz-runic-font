@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni16A6.cv04" format="2">
+  <advance width="400"/>
+  <outline>
+    <contour>
+      <point x="283" y="60" type="curve"/>
+      <point x="283" y="661" type="line"/>
+      <point x="184" y="641"/>
+      <point x="107" y="514"/>
+      <point x="107" y="360" type="curve" smooth="yes"/>
+      <point x="107" y="206"/>
+      <point x="184" y="80"/>
+    </contour>
+    <contour>
+      <point x="50" y="360" type="curve" smooth="yes"/>
+      <point x="50" y="558"/>
+      <point x="166" y="719"/>
+      <point x="308" y="721" type="curve"/>
+      <point x="328" y="721" type="line" smooth="yes"/>
+      <point x="335" y="721"/>
+      <point x="340" y="716"/>
+      <point x="340" y="709" type="curve" smooth="yes"/>
+      <point x="340" y="12" type="line" smooth="yes"/>
+      <point x="340" y="5"/>
+      <point x="335" y="0"/>
+      <point x="328" y="0" type="curve" smooth="yes"/>
+      <point x="307" y="0" type="line"/>
+      <point x="164" y="4"/>
+      <point x="50" y="163"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

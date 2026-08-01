@@ -1,0 +1,602 @@
+#> languagesystem
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem runr dflt;
+#< languagesystem
+feature aalt {
+# Access All Alternates
+
+#> feature
+  feature cv01;
+  feature cv02;
+  feature cv03;
+  feature cv04;
+  feature cv05;
+  feature cv06;
+  feature cv07;
+  feature cv08;
+  feature cv09;
+  feature cv10;
+  feature salt;
+  feature cv11;
+  feature cv12;
+  feature cv13;
+  feature cv14;
+  feature cv15;
+  feature cv19;
+#< feature
+} aalt;
+feature cv01 {
+# Character Variant 01—99
+
+#> feature
+  sub asciicircum by asciicircum.cv01;
+  sub ellipsis by ellipsis.cv01;
+  sub six by six.cv01;
+  sub uni16A0 by uni16A0.cv01;
+  sub uni16A1 by uni16A1.cv01;
+  sub uni16A2 by uni16A2.cv01;
+  sub uni16A3 by uni16A3.cv01;
+  sub uni16A4 by uni16A4.cv01;
+  sub uni16A5 by uni16A5.cv01;
+  sub uni16A6 by uni16A6.cv01;
+  sub uni16A7 by uni16A7.cv01;
+  sub uni16AE by uni16AE.cv01;
+  sub uni16B1 by uni16B1.cv01;
+  sub uni16B3 by uni16B3.cv01;
+  sub uni16B4 by uni16B4.cv01;
+  sub uni16B5 by uni16B5.cv01;
+  sub uni16B6 by uni16B6.cv01;
+  sub uni16B9 by uni16B9.cv01;
+  sub uni16C3 by uni16C3.cv01;
+  sub uni16C4 by uni16C4.cv01;
+  sub uni16C9 by uni16C9.cv01;
+  sub uni16CA by uni16CA.cv01;
+  sub uni16CF by uni16CF.cv01;
+  sub uni16D2 by uni16D2.cv01;
+  sub uni16D4 by uni16D4.cv01;
+  sub uni16D5 by uni16D5.cv01;
+  sub uni16D7 by uni16D7.cv01;
+  sub uni16D8 by uni16D8.cv01;
+  sub uni16DC by uni16DC.cv01;
+  sub uni16DE by uni16DE.cv01;
+  sub uni16DF by uni16DF.cv01;
+  sub uni16E3 by uni16E3.cv01;
+  sub uni16E6 by uni16E6.cv01;
+  sub uni16E9 by uni16E9.cv01;
+  sub uni16EF by uni16EF.cv01;
+  sub uni16F0 by uni16F0.cv01;
+  sub uni16F7 by uni16F7.cv01;
+  sub uni16F8 by uni16F8.cv01;
+#< feature
+} cv01;
+feature cv02 {
+# Character Variant 01—99
+
+#> feature
+  sub asciicircum by asciicircum.cv02;
+  sub bar by bar.cv02;
+  sub colon by colon.cv02;
+  sub ellipsis by ellipsis.cv02;
+  sub period by period.cv02;
+  sub space by space.cv02;
+  sub uni16A0 by uni16A0.cv02;
+  sub uni16A2 by uni16A2.cv02;
+  sub uni16A3 by uni16A3.cv02;
+  sub uni16A6 by uni16A6.cv02;
+  sub uni16A7 by uni16A7.cv02;
+  sub uni16A8 by uni16A8.cv02;
+  sub uni16A9 by uni16A9.cv02;
+  sub uni16AA by uni16AA.cv02;
+  sub uni16AD by uni16AD.cv02;
+  sub uni16B0 by uni16B0.cv02;
+  sub uni16B1 by uni16B1.cv02;
+  sub uni16B2 by uni16B2.cv02;
+  sub uni16B4 by uni16B4.cv02;
+  sub uni16B9 by uni16B9.cv02;
+  sub uni16BC by uni16BC.cv02;
+  sub uni16BF by uni16BF.cv02;
+  sub uni16C3 by uni16C3.cv02;
+  sub uni16C6 by uni16C6.cv02;
+  sub uni16C8 by uni16C8.cv02;
+  sub uni16C9 by uni16C9.cv02;
+  sub uni16CA by uni16CA.cv02;
+  sub uni16CB by uni16CB.cv02;
+  sub uni16CD by uni16CD.cv02;
+  sub uni16CF by uni16CF.cv02;
+  sub uni16D0 by uni16D0.cv02;
+  sub uni16D1 by uni16D1.cv02;
+  sub uni16D2 by uni16D2.cv02;
+  sub uni16D6 by uni16D6.cv02;
+  sub uni16D8 by uni16D8.cv02;
+  sub uni16DA by uni16DA.cv02;
+  sub uni16DC by uni16DC.cv02;
+  sub uni16DE by uni16DE.cv02;
+  sub uni16DF by uni16DF.cv02;
+  sub uni16E0 by uni16E0.cv02;
+  sub uni16E2 by uni16E2.cv02;
+  sub uni16E5 by uni16E5.cv02;
+  sub uni16E6 by uni16E6.cv02;
+  sub uni16E9 by uni16E9.cv02;
+  sub uni16EA by uni16EA.cv02;
+  sub uni16EB by uni16EB.cv02;
+  sub uni16EC by uni16EC.cv02;
+  sub uni16ED by uni16ED.cv02;
+#< feature
+} cv02;
+feature cv03 {
+# Character Variant 01—99
+
+#> feature
+  sub asciicircum by asciicircum.cv03;
+  sub uni16A0 by uni16A0.cv03;
+  sub uni16A2 by uni16A2.cv03;
+  sub uni16A3 by uni16A3.cv03;
+  sub uni16A6 by uni16A6.cv03;
+  sub uni16A7 by uni16A7.cv03;
+  sub uni16A8 by uni16A8.cv03;
+  sub uni16A9 by uni16A9.cv03;
+  sub uni16B0 by uni16B0.cv03;
+  sub uni16B1 by uni16B1.cv03;
+  sub uni16B4 by uni16B4.cv03;
+  sub uni16C1 by uni16C1.cv03;
+  sub uni16C3 by uni16C3.cv03;
+  sub uni16C6 by uni16C6.cv03;
+  sub uni16CA by uni16CA.cv03;
+  sub uni16CB by uni16CB.cv03;
+  sub uni16CD by uni16CD.cv03;
+  sub uni16CF by uni16CF.cv03;
+  sub uni16D1 by uni16D1.cv03;
+  sub uni16D2 by uni16D2.cv03;
+  sub uni16D8 by uni16D8.cv03;
+  sub uni16DA by uni16DA.cv03;
+  sub uni16DC by uni16DC.cv03;
+  sub uni16DE by uni16DE.cv03;
+  sub uni16DF by uni16DF.cv03;
+  sub uni16EA by uni16EA.cv03;
+#< feature
+} cv03;
+feature cv04 {
+# Character Variant 01—99
+
+#> feature
+  sub asciicircum by asciicircum.cv04;
+  sub uni16A0 by uni16A0.cv04;
+  sub uni16A2 by uni16A2.cv04;
+  sub uni16A3 by uni16A3.cv04;
+  sub uni16A6 by uni16A6.cv04;
+  sub uni16B0 by uni16B0.cv04;
+  sub uni16B1 by uni16B1.cv04;
+  sub uni16B4 by uni16B4.cv04;
+  sub uni16C3 by uni16C3.cv04;
+  sub uni16C6 by uni16C6.cv04;
+  sub uni16CA by uni16CA.cv04;
+  sub uni16CD by uni16CD.cv04;
+  sub uni16D1 by uni16D1.cv04;
+  sub uni16D2 by uni16D2.cv04;
+  sub uni16D8 by uni16D8.cv04;
+  sub uni16DA by uni16DA.cv04;
+  sub uni16DC by uni16DC.cv04;
+  sub uni16DF by uni16DF.cv04;
+  sub uni16EA by uni16EA.cv04;
+#< feature
+} cv04;
+feature cv05 {
+# Character Variant 01—99
+
+#> feature
+  sub asciicircum by asciicircum.cv05;
+  sub uni16A2 by uni16A2.cv05;
+  sub uni16A3 by uni16A3.cv05;
+  sub uni16A6 by uni16A6.cv05;
+  sub uni16B0 by uni16B0.cv05;
+  sub uni16B1 by uni16B1.cv05;
+  sub uni16C3 by uni16C3.cv05;
+  sub uni16C6 by uni16C6.cv05;
+  sub uni16CA by uni16CA.cv05;
+  sub uni16CD by uni16CD.cv05;
+  sub uni16D1 by uni16D1.cv05;
+  sub uni16D2 by uni16D2.cv05;
+  sub uni16DF by uni16DF.cv05;
+  sub uni16EA by uni16EA.cv05;
+#< feature
+} cv05;
+feature cv06 {
+# Character Variant 01—99
+
+#> feature
+  sub asciicircum by asciicircum.cv06;
+  sub uni16A2 by uni16A2.cv06;
+  sub uni16A6 by uni16A6.cv06;
+  sub uni16B1 by uni16B1.cv06;
+  sub uni16C3 by uni16C3.cv06;
+  sub uni16CA by uni16CA.cv06;
+  sub uni16CD by uni16CD.cv06;
+#< feature
+} cv06;
+feature cv07 {
+# Character Variant 01—99
+
+#> feature
+  sub asciicircum by asciicircum.cv07;
+  sub uni16A2 by uni16A2.cv07;
+  sub uni16B1 by uni16B1.cv07;
+  sub uni16C3 by uni16C3.cv07;
+  sub uni16CA by uni16CA.cv07;
+#< feature
+} cv07;
+feature cv08 {
+# Character Variant 01—99
+
+#> feature
+  sub asciicircum by asciicircum.cv08;
+  sub uni16A2 by uni16A2.cv08;
+  sub uni16CA by uni16CA.cv08;
+#< feature
+} cv08;
+feature cv09 {
+# Character Variant 01—99
+
+#> feature
+  sub asciicircum by asciicircum.cv09;
+  sub uni16A0 by uni16A0.cv09;
+  sub uni16A2 by uni16A2.cv09;
+  sub uni16A6 by uni16A6.cv09;
+  sub uni16AC by uni16AC.cv09;
+  sub uni16B1 by uni16B1.cv09;
+  sub uni16B4 by uni16B4.cv09;
+  sub uni16BC by uni16BC.cv09;
+  sub uni16BE by uni16BE.cv09;
+  sub uni16C1 by uni16C1.cv09;
+  sub uni16C5 by uni16C5.cv09;
+  sub uni16CB by uni16CB.cv09;
+  sub uni16CF by uni16CF.cv09;
+  sub uni16D2 by uni16D2.cv09;
+  sub uni16D8 by uni16D8.cv09;
+  sub uni16DA by uni16DA.cv09;
+  sub uni16E6 by uni16E6.cv09;
+#< feature
+} cv09;
+feature cv10 {
+# Character Variant 01—99
+
+#> feature
+  sub asciicircum by asciicircum.cv10;
+  sub uni16A0 by uni16A0.cv10;
+  sub uni16A2 by uni16A2.cv10;
+  sub uni16B1 by uni16B1.cv10;
+  sub uni16B4 by uni16B4.cv10;
+  sub uni16B5 by uni16B5.cv10;
+  sub uni16BA by uni16BA.cv10;
+  sub uni16BB by uni16BB.cv10;
+  sub uni16BE by uni16BE.cv10;
+  sub uni16C7 by uni16C7.cv10;
+  sub uni16CA by uni16CA.cv10;
+#< feature
+} cv10;
+feature salt {
+# Elder
+  sub f from [uni16A0 uni16A0.cv01 uni16A0.cv02 uni16A0.cv03 uni16A0.cv04 uni16A0.cv09 uni16A0.cv10 uni16A0.cv11 uni16A0.cv12 uni16A0.cv13 uni16A0.cv14 uni16A0.cv15 uni16A0.cv19];
+  sub u from [uni16A2 uni16A2.cv01 uni16A2.cv02 uni16A2.cv03 uni16A2.cv04 uni16A2.cv05 uni16A2.cv06 uni16A2.cv07 uni16A2.cv08 uni16A2.cv09 uni16A2.cv10 uni16A2.cv11 uni16A2.cv12 uni16A2.cv13 uni16A2.cv14 uni16A2.cv15 uni16A2.cv19];
+  sub thorn from [uni16A6 uni16A6.cv01 uni16A6.cv02 uni16A6.cv03 uni16A6.cv04 uni16A6.cv05 uni16A6.cv06 uni16A6.cv09 uni16A7 uni16A6.cv11 uni16A6.cv12 uni16A6.cv13 uni16A6.cv14 uni16A6.cv15 uni16A6.cv19];
+  sub a from [uni16A8 uni16A8.cv02 uni16A8.cv03 uni16AA uni16AA.cv02 uni16C5 uni16C5.cv09 uni16C5.cv11 uni16C5.cv12 uni16C5.cv13 uni16C5.cv14 uni16C5.cv15 uni16C6 uni16C6.cv02 uni16C6.cv03 uni16C6.cv04 uni16C6.cv05 uni16F7 uni16C5.cv19];
+  sub r from [uni16B1 uni16B1.cv01 uni16B1.cv02 uni16B1.cv03 uni16B1.cv04 uni16B1.cv05 uni16B1.cv06 uni16B1.cv07 uni16B1.cv09 uni16B1.cv10 uni16B1.cv11 uni16B1.cv12 uni16B1.cv13 uni16B1.cv14 uni16B1.cv15 uni16B1.cv19];
+  sub k from [uni16B2 uni16B2.cv02 uni16B4 uni16B4.cv01 uni16B4.cv02 uni16B4.cv03 uni16B4.cv04 uni16B4.cv09 uni16B4.cv10 uni16B4.cv11 uni16B4.cv12 uni16B4.cv13 uni16B4.cv14 uni16B4.cv15 uni16B4.cv19 uni16F1];
+  sub g from [uni16B7 uni16B5 uni16B5.cv01 uni16B5.cv10 uni16B8];
+  sub w from [uni16B9 uni16B9.cv01 uni16B9.cv02 uni16A5 uni16A5.cv01];
+  sub h from [uni16BA uni16BA.cv10 uni16BB uni16BB.cv10 uni16BC uni16BC.cv02 uni16BC.cv09 uni16BC.cv11 uni16BC.cv12 uni16BC.cv13 uni16BC.cv14 uni16BC.cv15 uni16BC.cv19 uni16BD];
+  sub n from [uni16BE uni16BE.cv09 uni16BE.cv10 uni16BE.cv11 uni16BE.cv12 uni16BE.cv13 uni16BE.cv14 uni16BE.cv15 uni16BE.cv19 uni16BF uni16BF.cv02 uni16C0];
+  sub i from [uni16C1 uni16C1.cv03 uni16C1.cv09 uni16C1.cv11 uni16C1.cv12 uni16C1.cv13 uni16C1.cv14 uni16C1.cv15 uni16C1.cv19 uni16F5];
+  sub j from [uni16C3 uni16C3.cv01 uni16C3.cv02 uni16C3.cv03 uni16C3.cv04 uni16C3.cv05 uni16C3.cv06 uni16C3.cv07 uni16C1.cv03 uni16E1];
+  #sub Iwaz from [uni16C7 uni16C7.cv10];
+  sub p from [uni16C8 uni16C8.cv02 uni16D4 uni16D4.cv01 uni16D5 uni16D5.cv01];
+  sub z from [uni16C9 uni16C9.cv01 uni16C9.cv02 uni16CE];
+  sub s from [uni16CA uni16CA.cv01 uni16CA.cv02 uni16CA.cv03 uni16CA.cv04 uni16CA.cv05 uni16CA.cv06 uni16CA.cv07 uni16CA.cv08 uni16CA.cv10 uni16CB uni16CB.cv02 uni16CB.cv03 uni16CB.cv09 uni16CB.cv11 uni16CB.cv12 uni16CB.cv13 uni16CB.cv14 uni16CB.cv15 uni16CB.cv19 uni16CC];
+  sub t from [uni16CF uni16CF.cv01 uni16CF.cv02 uni16CF.cv03 uni16CF.cv09 uni16CF.cv11 uni16CF.cv12 uni16CF.cv13 uni16CF.cv14 uni16CF.cv15 uni16CF.cv19 uni16D0 uni16D0.cv02];
+  sub b from [uni16D2 uni16D2.cv01 uni16D2.cv02 uni16D2.cv03 uni16D2.cv04 uni16D2.cv05 uni16D2.cv09 uni16D2.cv11 uni16D2.cv12 uni16D2.cv13 uni16D2.cv14 uni16D2.cv15 uni16D2.cv19 uni16D3];
+  sub e from [uni16D6 uni16D6.cv02 uni16C2 uni16F6];
+  sub m from [uni16D7 uni16D7.cv01 uni16D8 uni16D8.cv01 uni16D8.cv02 uni16D8.cv03 uni16D8.cv04 uni16D8.cv09 uni16D8.cv11 uni16D8.cv12 uni16D8.cv13 uni16D8.cv14 uni16D8.cv15 uni16D8.cv19 uni16D9];
+  #sub M from [uni16D8 uni16D8.cv01];
+  sub l from [uni16DA uni16DA.cv02 uni16DA.cv03 uni16DA.cv04 uni16DA.cv09 uni16DA.cv11 uni16DA.cv12 uni16DA.cv13 uni16DA.cv14 uni16DA.cv15 uni16DA.cv19 uni16DB];
+  #sub Ingwaz from [uni16DC uni16DC.cv01 uni16DC.cv02 uni16DC.cv03 uni16DC.cv04 uni16DD];
+  sub d from [uni16DE uni16DE.cv01 uni16DE.cv02 uni16DE.cv03 uni16D1 uni16D1.cv02 uni16D1.cv03 uni16D1.cv04 uni16D1.cv05];
+  sub o from [uni16AC uni16AC.cv09 uni16AC.cv11 uni16AC.cv12 uni16AC.cv13 uni16AC.cv14 uni16AC.cv15 uni16AC.cv19 uni16AD uni16AD.cv02 uni16DF uni16DF.cv01 uni16DF.cv02 uni16DF.cv03 uni16DF.cv04 uni16DF.cv05 uni16A9 uni16A9.cv02 uni16A9.cv03 uni16AE uni16AE.cv01 uni16F4];
+
+# Anglo-Saxon and other
+  sub eth from [uni16A7 uni16A7.cv01 uni16A7.cv02 uni16A7.cv03];
+  sub c from [uni16B3 uni16B3.cv01 uni16CD uni16CD.cv02 uni16CD.cv03 uni16CD.cv04 uni16CD.cv05 uni16CD.cv06];
+  sub q from [uni16E2 uni16E2.cv02 uni16E9 uni16E9.cv01 uni16E9.cv02];
+  sub v from [uni16A1 uni16A1.cv01];
+  sub x from [uni16EA uni16EA.cv02 uni16EA.cv03 uni16EA.cv04 uni16EA.cv05];
+  sub y from [uni16A3 uni16A3.cv01 uni16A3.cv02 uni16A3.cv03 uni16A3.cv04 uni16A3.cv05 uni16A4 uni16A4.cv01 uni16E6 uni16E6.cv01 uni16E6.cv02 uni16E6.cv09 uni16E6.cv11 uni16E6.cv12 uni16E6.cv13 uni16E6.cv14 uni16E6.cv15 uni16E6.cv19 uni16E7 uni16E8];
+  sub ae from [uni16C5];
+  sub oslash from [uni16AF];
+  sub plus from [uni16ED uni16ED.cv02];
+
+# CAPITAL
+  sub F from [uni16A0 uni16A0.cv01 uni16A0.cv02 uni16A0.cv03 uni16A0.cv04 uni16A0.cv09 uni16A0.cv10 uni16A0.cv11 uni16A0.cv12 uni16A0.cv13 uni16A0.cv14 uni16A0.cv15 uni16A0.cv19];
+  sub U from [uni16A2 uni16A2.cv01 uni16A2.cv02 uni16A2.cv03 uni16A2.cv04 uni16A2.cv05 uni16A2.cv06 uni16A2.cv07 uni16A2.cv08 uni16A2.cv09 uni16A2.cv10 uni16A2.cv11 uni16A2.cv12 uni16A2.cv13 uni16A2.cv14 uni16A2.cv15 uni16A2.cv19];
+  sub Thorn from [uni16A6 uni16A6.cv01 uni16A6.cv02 uni16A6.cv03 uni16A6.cv04 uni16A6.cv05 uni16A6.cv06 uni16A6.cv09 uni16A6.cv11 uni16A6.cv12 uni16A6.cv13 uni16A6.cv14 uni16A6.cv15 uni16A6.cv19 uni16A7];
+  sub A from [uni16A8 uni16A8.cv02 uni16A8.cv03 uni16AA uni16AA.cv02 uni16C5 uni16C5.cv09 uni16C5.cv11 uni16C5.cv12 uni16C5.cv13 uni16C5.cv14 uni16C5.cv15 uni16C5.cv19 uni16C6 uni16C6.cv02 uni16C6.cv03 uni16C6.cv04 uni16C6.cv05 uni16F7];
+  sub R from [uni16B1 uni16B1.cv01 uni16B1.cv02 uni16B1.cv03 uni16B1.cv04 uni16B1.cv05 uni16B1.cv06 uni16B1.cv07 uni16B1.cv09 uni16B1.cv10 uni16B1.cv11 uni16B1.cv12 uni16B1.cv13 uni16B1.cv14 uni16B1.cv15 uni16B1.cv19];
+  sub K from [uni16B2 uni16B2.cv02 uni16B4 uni16B4.cv01 uni16B4.cv02 uni16B4.cv03 uni16B4.cv04 uni16B4.cv09 uni16B4.cv10 uni16B4.cv11 uni16B4.cv12 uni16B4.cv13 uni16B4.cv14 uni16B4.cv15 uni16B4.cv19 uni16F1];
+  sub G from [uni16B7 uni16B5 uni16B5.cv01 uni16B5.cv10 uni16B8];
+  sub W from [uni16B9 uni16B9.cv01 uni16B9.cv02 uni16A5 uni16A5.cv01];
+  sub H from [uni16BA uni16BA.cv10 uni16BB uni16BB.cv10 uni16BC uni16BC.cv02 uni16BC.cv09 uni16BC.cv11 uni16BC.cv12 uni16BC.cv13 uni16BC.cv14 uni16BC.cv15 uni16BC.cv19 uni16BD];
+  sub N from [uni16BE uni16BE.cv09 uni16BE.cv10 uni16BE.cv11 uni16BE.cv12 uni16BE.cv13 uni16BE.cv14 uni16BE.cv15 uni16BE.cv19 uni16BF uni16BF.cv02 uni16C0];
+  sub I from [uni16C1 uni16C1.cv03 uni16C1.cv09 uni16C1.cv11 uni16C1.cv12 uni16C1.cv13 uni16C1.cv14 uni16C1.cv15 uni16C1.cv19 uni16F5];
+  sub J from [uni16C3 uni16C3.cv01 uni16C3.cv02 uni16C3.cv03 uni16C3.cv04 uni16C3.cv05 uni16C3.cv06 uni16C3.cv07 uni16C1.cv03 uni16E1];
+  #sub Iwaz from [uni16C7 uni16C7.cv10];
+  sub P from [uni16C8 uni16C8.cv02 uni16D4 uni16D4.cv01 uni16D5 uni16D5.cv01];
+  sub Z from [uni16C9 uni16C9.cv01 uni16C9.cv02 uni16CE];
+  sub S from [uni16CA uni16CA.cv01 uni16CA.cv02 uni16CA.cv03 uni16CA.cv04 uni16CA.cv05 uni16CA.cv06 uni16CA.cv07 uni16CA.cv08 uni16CA.cv10 uni16CB uni16CB.cv02 uni16CB.cv03 uni16CB.cv09 uni16CB.cv11 uni16CB.cv12 uni16CB.cv13 uni16CB.cv14 uni16CB.cv15 uni16CB.cv19 uni16CC];
+  sub T from [uni16CF uni16CF.cv01 uni16CF.cv02 uni16CF.cv03 uni16CF.cv09 uni16CF.cv11 uni16CF.cv12 uni16CF.cv13 uni16CF.cv14 uni16CF.cv15 uni16CF.cv19 uni16D0 uni16D0.cv02];
+  sub B from [uni16D2 uni16D2.cv01 uni16D2.cv02 uni16D2.cv03 uni16D2.cv04 uni16D2.cv05 uni16D2.cv09 uni16D2.cv11 uni16D2.cv12 uni16D2.cv13 uni16D2.cv14 uni16D2.cv15 uni16D2.cv19 uni16D3];
+  sub E from [uni16D6 uni16D6.cv02 uni16C2 uni16F6];
+  sub M from [uni16D7 uni16D7.cv01 uni16D8 uni16D8.cv01 uni16D8.cv02 uni16D8.cv03 uni16D8.cv04 uni16D8.cv09 uni16D8.cv11 uni16D8.cv12 uni16D8.cv13 uni16D8.cv14 uni16D8.cv15 uni16D8.cv19 uni16D9];
+  #sub M from [uni16D8 uni16D8.cv01];
+  sub L from [uni16DA uni16DA.cv02 uni16DA.cv03 uni16DA.cv04 uni16DA.cv09 uni16DA.cv11 uni16DA.cv12 uni16DA.cv13 uni16DA.cv14 uni16DA.cv15 uni16DA.cv19 uni16DB];
+  #sub Ingwaz from [uni16DC uni16DC.cv01 uni16DC.cv02 uni16DC.cv03 uni16DC.cv04 uni16DD];
+  sub D from [uni16DE uni16DE.cv01 uni16DE.cv02 uni16DE.cv03 uni16D1 uni16D1.cv02 uni16D1.cv03 uni16D1.cv04 uni16D1.cv05];
+  sub O from [uni16AC uni16AC.cv09 uni16AC.cv11 uni16AC.cv12 uni16AC.cv13 uni16AC.cv14 uni16AC.cv15 uni16AC.cv19 uni16AD uni16AD.cv02 uni16DF uni16DF.cv01 uni16DF.cv02 uni16DF.cv03 uni16DF.cv04 uni16DF.cv05 uni16A9 uni16A9.cv02 uni16A9.cv03 uni16AE uni16AE.cv01 uni16F4];
+
+# Anglo-Saxon and other
+  sub Eth from [uni16A7 uni16A7.cv01 uni16A7.cv02 uni16A7.cv03];
+  sub C from [uni16B3 uni16B3.cv01 uni16CD uni16CD.cv02 uni16CD.cv03 uni16CD.cv04 uni16CD.cv05 uni16CD.cv06];
+  sub Q from [uni16E2 uni16E2.cv02 uni16E9 uni16E9.cv01 uni16E9.cv02];
+  sub V from [uni16A1 uni16A1.cv01];
+  sub X from [uni16EA uni16EA.cv02 uni16EA.cv03 uni16EA.cv04 uni16EA.cv05];
+  sub Y from [uni16A3 uni16A3.cv01 uni16A3.cv02 uni16A3.cv03 uni16A3.cv04 uni16A3.cv05 uni16A4 uni16A4.cv01 uni16E6 uni16E6.cv01 uni16E6.cv02 uni16E6.cv09 uni16E6.cv11 uni16E6.cv12 uni16E6.cv13 uni16E6.cv14 uni16E6.cv15 uni16E6.cv19 uni16E7 uni16E8];
+
+# Mirrors
+#  sub uni16A0 from [uni16A0.rtl];
+#  sub uni16A2 from [uni16A2.rtl];
+#  sub uni16B1 from [uni16B1.rtl];
+#  sub uni16B4 from [uni16B4.rtl];
+#  sub uni16B5 from [uni16B5.rtl];
+#  sub uni16BA from [uni16BA.rtl];
+#  sub uni16BB from [uni16BB.rtl];
+#  sub uni16BE from [uni16BE.rtl];
+#  sub uni16C7 from [uni16C7.rtl];
+#  sub uni16CA from [uni16CA.rtl];
+
+# Symbols
+  sub underscore from [ellipsis ellipsis.cv01 ellipsis.cv02 uni035c uni0361 uni0361.alt];
+  sub equal from [uni035c uni0361 uni0361.alt];
+
+# Stylistic Alternates
+
+#> feature
+  sub a_z from [a_z.alt];
+  sub asciicircum from [asciicircum.cv01 asciicircum.cv02 asciicircum.cv03 asciicircum.cv04 asciicircum.cv05 asciicircum.cv06 asciicircum.cv07 asciicircum.cv08 asciicircum.cv09 asciicircum.cv10];
+  sub bar from [bar.cv02];
+  sub colon from [colon.cv02];
+  sub ellipsis from [ellipsis.cv02 ellipsis.cv01];
+  sub period from [period.cv02];
+  sub six from [six.cv01];
+  sub space from [space.cv02];
+  sub uni0361 from [uni0361.alt];
+  sub uni16A0 from [uni16A0.cv01 uni16A0.cv02 uni16A0.cv03 uni16A0.cv10 uni16A0.cv04 uni16A0.cv09 uni16A0.cv11 uni16A0.cv12 uni16A0.cv13 uni16A0.cv14 uni16A0.cv15 uni16A0.cv19];
+  sub uni16A1 from [uni16A1.cv01];
+  sub uni16A2 from [uni16A2.cv01 uni16A2.cv03 uni16A2.cv02 uni16A2.cv04 uni16A2.cv05 uni16A2.cv09 uni16A2.cv06 uni16A2.cv10 uni16A2.cv11 uni16A2.cv07 uni16A2.cv08 uni16A2.cv12 uni16A2.cv13 uni16A2.cv14 uni16A2.cv15 uni16A2.cv19];
+  sub uni16A3 from [uni16A3.cv01 uni16A3.cv02 uni16A3.cv03 uni16A3.cv04 uni16A3.cv05];
+  sub uni16A4 from [uni16A4.cv01];
+  sub uni16A5 from [uni16A5.cv01];
+  sub uni16A6 from [uni16A6.cv01 uni16A6.cv02 uni16A6.cv09 uni16A6.cv03 uni16A6.cv04 uni16A6.cv05 uni16A6.cv06 uni16A6.cv11 uni16A6.cv12 uni16A6.cv13 uni16A6.cv14 uni16A6.cv15 uni16A6.cv19];
+  sub uni16A7 from [uni16A7.cv01 uni16A7.cv02 uni16A7.cv03];
+  sub uni16A8 from [uni16A8.cv02 uni16A8.cv03];
+  sub uni16A9 from [uni16A9.cv02 uni16A9.cv03];
+  sub uni16AA from [uni16AA.cv02];
+  sub uni16AC from [uni16AC.cv09 uni16AC.cv11 uni16AC.cv12 uni16AC.cv13 uni16AC.cv14 uni16AC.cv15 uni16AC.cv19];
+  sub uni16AD from [uni16AD.cv02];
+  sub uni16AE from [uni16AE.cv01];
+  sub uni16B0 from [uni16B0.cv02 uni16B0.cv03 uni16B0.cv04 uni16B0.cv05];
+  sub uni16B1 from [uni16B1.cv01 uni16B1.cv02 uni16B1.cv03 uni16B1.cv10 uni16B1.cv09 uni16B1.cv04 uni16B1.cv05 uni16B1.cv06 uni16B1.cv07 uni16B1.cv11 uni16B1.cv12 uni16B1.cv13 uni16B1.cv14 uni16B1.cv15 uni16B1.cv19];
+  sub uni16B2 from [uni16B2.cv02];
+  sub uni16B3 from [uni16B3.cv01];
+  sub uni16B4 from [uni16B4.cv01 uni16B4.cv02 uni16B4.cv03 uni16B4.cv04 uni16B4.cv09 uni16B4.cv10 uni16B4.cv11 uni16B4.cv14 uni16B4.cv15 uni16B4.cv12 uni16B4.cv13 uni16B4.cv19];
+  sub uni16B5 from [uni16B5.cv01 uni16B5.cv10];
+  sub uni16B6 from [uni16B6.cv01];
+  sub uni16B9 from [uni16B9.cv01 uni16B9.cv02];
+  sub uni16BA from [uni16BA.cv10];
+  sub uni16BB from [uni16BB.cv10];
+  sub uni16BC from [uni16BC.cv09 uni16BC.cv02 uni16BC.cv11 uni16BC.cv12 uni16BC.cv13 uni16BC.cv14 uni16BC.cv15 uni16BC.cv19];
+  sub uni16BE from [uni16BE.cv10 uni16BE.cv09 uni16BE.cv11 uni16BE.cv12 uni16BE.cv13 uni16BE.cv14 uni16BE.cv15 uni16BE.cv19];
+  sub uni16BF from [uni16BF.cv02];
+  sub uni16C1 from [uni16C1.cv09 uni16C1.cv03 uni16C1.cv11 uni16C1.cv12 uni16C1.cv13 uni16C1.cv14 uni16C1.cv15 uni16C1.cv19];
+  sub uni16C3 from [uni16C3.cv01 uni16C3.cv02 uni16C3.cv03 uni16C3.cv04 uni16C3.cv05 uni16C3.cv06 uni16C3.cv07];
+  sub uni16C4 from [uni16C4.cv01];
+  sub uni16C5 from [uni16C5.cv09 uni16C5.cv11 uni16C5.cv12 uni16C5.cv13 uni16C5.cv14 uni16C5.cv15 uni16C5.cv19];
+  sub uni16C6 from [uni16C6.cv02 uni16C6.cv04 uni16C6.cv03 uni16C6.cv05];
+  sub uni16C7 from [uni16C7.cv10];
+  sub uni16C8 from [uni16C8.cv02];
+  sub uni16C9 from [uni16C9.cv01 uni16C9.cv02];
+  sub uni16CA from [uni16CA.cv02 uni16CA.cv03 uni16CA.cv05 uni16CA.cv06 uni16CA.cv04 uni16CA.cv07 uni16CA.cv08 uni16CA.cv10 uni16CA.cv01];
+  sub uni16CB from [uni16CB.cv02 uni16CB.cv09 uni16CB.cv03 uni16CB.cv11 uni16CB.cv12 uni16CB.cv13 uni16CB.cv14 uni16CB.cv15 uni16CB.cv19];
+  sub uni16CD from [uni16CD.cv02 uni16CD.cv03 uni16CD.cv04 uni16CD.cv05 uni16CD.cv06];
+  sub uni16CF from [uni16CF.cv02 uni16CF.cv01 uni16CF.cv03 uni16CF.cv09 uni16CF.cv11 uni16CF.cv12 uni16CF.cv13 uni16CF.cv14 uni16CF.cv15 uni16CF.cv19];
+  sub uni16D0 from [uni16D0.cv02];
+  sub uni16D1 from [uni16D1.cv02 uni16D1.cv03 uni16D1.cv04 uni16D1.cv05];
+  sub uni16D2 from [uni16D2.cv01 uni16D2.cv02 uni16D2.cv03 uni16D2.cv09 uni16D2.cv04 uni16D2.cv05 uni16D2.cv11 uni16D2.cv12 uni16D2.cv13 uni16D2.cv14 uni16D2.cv15 uni16D2.cv19];
+  sub uni16D4 from [uni16D4.cv01];
+  sub uni16D5 from [uni16D5.cv01];
+  sub uni16D6 from [uni16D6.cv02];
+  sub uni16D7 from [uni16D7.cv01];
+  sub uni16D8 from [uni16D8.cv01 uni16D8.cv02 uni16D8.cv03 uni16D8.cv09 uni16D8.cv04 uni16D8.cv11 uni16D8.cv12 uni16D8.cv13 uni16D8.cv14 uni16D8.cv15 uni16D8.cv19];
+  sub uni16DA from [uni16DA.cv09 uni16DA.cv02 uni16DA.cv03 uni16DA.cv04 uni16DA.cv11 uni16DA.cv12 uni16DA.cv13 uni16DA.cv14 uni16DA.cv15 uni16DA.cv19];
+  sub uni16DC from [uni16DC.cv99 uni16DC.cv01 uni16DC.cv02 uni16DC.cv03 uni16DC.cv04];
+  sub uni16DE from [uni16DE.cv01 uni16DE.cv02 uni16DE.cv03];
+  sub uni16DF from [uni16DF.cv01 uni16DF.cv02 uni16DF.cv03 uni16DF.cv04 uni16DF.cv05];
+  sub uni16E0 from [uni16E0.cv02];
+  sub uni16E2 from [uni16E2.cv02];
+  sub uni16E3 from [uni16E3.cv01];
+  sub uni16E5 from [uni16E5.cv02];
+  sub uni16E6 from [uni16E6.cv01 uni16E6.cv09 uni16E6.cv02 uni16E6.cv11 uni16E6.cv12 uni16E6.cv13 uni16E6.cv14 uni16E6.cv15 uni16E6.cv19];
+  sub uni16E9 from [uni16E9.cv01 uni16E9.cv02];
+  sub uni16EA from [uni16EA.cv02 uni16EA.cv03 uni16EA.cv04 uni16EA.cv05];
+  sub uni16EB from [uni16EB.cv02];
+  sub uni16EC from [uni16EC.cv02];
+  sub uni16ED from [uni16ED.cv02];
+  sub uni16EF from [uni16EF.cv01];
+  sub uni16F0 from [uni16F0.cv01];
+  sub uni16F7 from [uni16F7.cv01];
+  sub uni16F8 from [uni16F8.cv01];
+#< feature
+} salt;
+feature dlig {
+# Discretionary Ligatures
+  sub uni16A8 uni16E3 by a_z;
+  sub uni16A8 uni16C9 by a_z;
+  sub uni16CF uni16BE by t_n;
+  sub uni16BE uni16CF by t_n;
+  sub uni16DA uni16CF by l_t;
+  sub uni16A0 uni16AA by f_a;
+  sub uni16D6 uni16D7 by e_m;
+  sub uni16A2 uni16A6 by u_thorn;
+
+#> feature
+  sub a z by a_z;
+  sub e m by e_m;
+  sub f a by f_a;
+  sub k r by k_r;
+  sub k z by k_z;
+  sub l t by l_t;
+  sub t n by t_n;
+  sub u thorn by u_thorn;
+  sub uni16C6 uni16A6 by uni16C6_uni16A6;
+  sub x z by x_z;
+  sub k h z by k_h_z;
+#< feature
+} dlig;
+feature cv11 {
+# Character Variant 01—99
+
+#> feature
+  sub uni16A0 by uni16A0.cv11;
+  sub uni16A2 by uni16A2.cv11;
+  sub uni16A6 by uni16A6.cv11;
+  sub uni16AC by uni16AC.cv11;
+  sub uni16B1 by uni16B1.cv11;
+  sub uni16B4 by uni16B4.cv11;
+  sub uni16BC by uni16BC.cv11;
+  sub uni16BE by uni16BE.cv11;
+  sub uni16C1 by uni16C1.cv11;
+  sub uni16C5 by uni16C5.cv11;
+  sub uni16CB by uni16CB.cv11;
+  sub uni16CF by uni16CF.cv11;
+  sub uni16D2 by uni16D2.cv11;
+  sub uni16D8 by uni16D8.cv11;
+  sub uni16DA by uni16DA.cv11;
+  sub uni16E6 by uni16E6.cv11;
+#< feature
+} cv11;
+feature cv12 {
+# Character Variant 01—99
+
+#> feature
+  sub uni16A0 by uni16A0.cv12;
+  sub uni16A2 by uni16A2.cv12;
+  sub uni16A6 by uni16A6.cv12;
+  sub uni16AC by uni16AC.cv12;
+  sub uni16B1 by uni16B1.cv12;
+  sub uni16B4 by uni16B4.cv12;
+  sub uni16BC by uni16BC.cv12;
+  sub uni16BE by uni16BE.cv12;
+  sub uni16C1 by uni16C1.cv12;
+  sub uni16C5 by uni16C5.cv12;
+  sub uni16CB by uni16CB.cv12;
+  sub uni16CF by uni16CF.cv12;
+  sub uni16D2 by uni16D2.cv12;
+  sub uni16D8 by uni16D8.cv12;
+  sub uni16DA by uni16DA.cv12;
+  sub uni16E6 by uni16E6.cv12;
+#< feature
+} cv12;
+feature cv13 {
+# Character Variant 01—99
+
+#> feature
+  sub uni16A0 by uni16A0.cv13;
+  sub uni16A2 by uni16A2.cv13;
+  sub uni16A6 by uni16A6.cv13;
+  sub uni16AC by uni16AC.cv13;
+  sub uni16B1 by uni16B1.cv13;
+  sub uni16B4 by uni16B4.cv13;
+  sub uni16BC by uni16BC.cv13;
+  sub uni16BE by uni16BE.cv13;
+  sub uni16C1 by uni16C1.cv13;
+  sub uni16C5 by uni16C5.cv13;
+  sub uni16CB by uni16CB.cv13;
+  sub uni16CF by uni16CF.cv13;
+  sub uni16D2 by uni16D2.cv13;
+  sub uni16D8 by uni16D8.cv13;
+  sub uni16DA by uni16DA.cv13;
+  sub uni16E6 by uni16E6.cv13;
+#< feature
+} cv13;
+feature cv14 {
+# Character Variant 01—99
+
+#> feature
+  sub uni16A0 by uni16A0.cv14;
+  sub uni16A2 by uni16A2.cv14;
+  sub uni16A6 by uni16A6.cv14;
+  sub uni16AC by uni16AC.cv14;
+  sub uni16B1 by uni16B1.cv14;
+  sub uni16B4 by uni16B4.cv14;
+  sub uni16BC by uni16BC.cv14;
+  sub uni16BE by uni16BE.cv14;
+  sub uni16C1 by uni16C1.cv14;
+  sub uni16C5 by uni16C5.cv14;
+  sub uni16CB by uni16CB.cv14;
+  sub uni16CF by uni16CF.cv14;
+  sub uni16D2 by uni16D2.cv14;
+  sub uni16D8 by uni16D8.cv14;
+  sub uni16DA by uni16DA.cv14;
+  sub uni16E6 by uni16E6.cv14;
+#< feature
+} cv14;
+feature cv15 {
+# Character Variant 01—99
+
+#> feature
+  sub uni16A0 by uni16A0.cv15;
+  sub uni16A2 by uni16A2.cv15;
+  sub uni16A6 by uni16A6.cv15;
+  sub uni16AC by uni16AC.cv15;
+  sub uni16B1 by uni16B1.cv15;
+  sub uni16B4 by uni16B4.cv15;
+  sub uni16BC by uni16BC.cv15;
+  sub uni16BE by uni16BE.cv15;
+  sub uni16C1 by uni16C1.cv15;
+  sub uni16C5 by uni16C5.cv15;
+  sub uni16CB by uni16CB.cv15;
+  sub uni16CF by uni16CF.cv15;
+  sub uni16D2 by uni16D2.cv15;
+  sub uni16D8 by uni16D8.cv15;
+  sub uni16DA by uni16DA.cv15;
+  sub uni16E6 by uni16E6.cv15;
+#< feature
+} cv15;
+feature cv19 {
+# Character Variant 01—99
+
+#> feature
+  sub uni16A0 by uni16A0.cv19;
+  sub uni16A2 by uni16A2.cv19;
+  sub uni16A6 by uni16A6.cv19;
+  sub uni16AC by uni16AC.cv19;
+  sub uni16B1 by uni16B1.cv19;
+  sub uni16B4 by uni16B4.cv19;
+  sub uni16BC by uni16BC.cv19;
+  sub uni16BE by uni16BE.cv19;
+  sub uni16C1 by uni16C1.cv19;
+  sub uni16C5 by uni16C5.cv19;
+  sub uni16CB by uni16CB.cv19;
+  sub uni16CF by uni16CF.cv19;
+  sub uni16D2 by uni16D2.cv19;
+  sub uni16D8 by uni16D8.cv19;
+  sub uni16DA by uni16DA.cv19;
+  sub uni16E6 by uni16E6.cv19;
+#< feature
+} cv19;

@@ -99,6 +99,7 @@ Erilaz cannot set Latin text — every Latin code point carries a rune.
 fonts/otf/Erilaz-Regular.otf         release build
 fonts/webfonts/Erilaz-Regular.woff2  web build
 sources/Erilaz-Regular.vfc           design source, FontLab 7.2
+sources/Erilaz-Regular.ufo           source, portable
 documentation/specimen.pdf           printed specimen
 documentation/sources.md             where each variant comes from
 FONTLOG.txt                          version history

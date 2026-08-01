@@ -17,7 +17,7 @@ The release contains one style, Regular, with 488 glyphs, of which 89 are
 mapped to code points in the Runic block. The Latin code points carry runes
 as well, as a keyboard input convenience; those glyphs are marked with a dot
 below. Outlines are PostScript (CFF); the units per em value is 1024. The
-design source is a FontLab file, included in sources/.
+design sources are a FontLab file and a UFO export, both in sources/.
 
 Erilaz is released under the SIL Open Font License, Version 1.1. The license
 is in OFL.txt and LICENSE.
