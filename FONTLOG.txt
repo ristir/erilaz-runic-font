@@ -1,0 +1,89 @@
+FONTLOG for Erilaz
+
+This file provides detailed information on the Erilaz font software. This
+information should be distributed along with the Erilaz fonts and any
+derivative works.
+
+
+Basic Font Information
+
+Erilaz is a runic typeface covering the Unicode Runic block (U+16A0-U+16FF).
+It is drawn for setting inscriptions in Elder Futhark, Old English Futhorc,
+the Younger Futharks and the Medieval Futhorks, and it includes bind runes
+and a set of historical letterform variants selectable through OpenType
+character variant features.
+
+The release contains one style, Regular, with 488 glyphs, of which 89 are
+mapped to code points in the Runic block. The Latin code points carry runes
+as well, as a keyboard input convenience; those glyphs are marked with a dot
+below. Outlines are PostScript (CFF); the units per em value is 1024. The
+design source is a FontLab file, included in sources/.
+
+Erilaz is released under the SIL Open Font License, Version 1.1. The license
+is in OFL.txt and LICENSE.
+
+
+ChangeLog
+
+1 August 2026 (Eyvar Tjörvason) Erilaz Version 1.000
+- First public release. 488 glyphs.
+- Two staveless forms drawn, for U+16C1 and U+16CB, completing cv19 to the
+  sixteen runes of the Younger Futhark.
+- Bind runes for f+a, t+n, l+t, a+z, e+m, u+þ and á+þ made reachable when
+  typing runes at their own code points, not only from the Latin layer.
+- The e+m bind rune no longer carries a stray Unicode code point.
+- Metadata brought in line with the SIL Open Font License; version raised
+  to 1.000; vertical metrics corrected so that the safe area covers the
+  full outline bounding box.
+- No existing outline was changed.
+
+3 January 2022 (Eyvar Tjörvason) Erilaz Version 0.9.2
+- Final build of the development period. 486 glyphs.
+- Source moved to FontLab 7.2 on 1 January 2022, at 483 glyphs.
+- Thor's hammer of the Karlevi stone added; e+m bind rune of the Thorsberg
+  find added.
+
+16-19 June 2021 (Eyvar Tjörvason) Erilaz Version 0.9.2
+- 453 to 482 glyphs.
+- Digits, ae, brackets and the Thor's hammer symbols added.
+
+13 December 2020 (Eyvar Tjörvason) Erilaz Version 0.9.2
+- 450 glyphs.
+
+12 December 2020 (Eyvar Tjörvason) Erilaz Version 0.9.1
+- 449 glyphs.
+- Combining double inverted breve and combining double breve below added.
+- Staveless forms of Hälsingland added as cv19.
+- Runes assigned to the Latin code points for keyboard entry.
+
+30 August 2020 (Eyvar Tjörvason) Erilaz Version 0.9
+- 432 glyphs.
+- Cipher runes completed: two systems from the Rök stone, the "fish" forms
+  and the "beard" forms.
+
+30 August 2020 (Eyvar Tjörvason) Erilaz Version 0.8
+- 390 glyphs.
+
+16 August 2020 (Eyvar Tjörvason) Erilaz Version 0.7
+- 356 glyphs.
+- Cipher runes of the Rök stone added as cv11.
+
+9 August 2020 (Eyvar Tjörvason) Erilaz Version 0.6
+- 333 glyphs.
+
+8 August 2020 (Eyvar Tjörvason) Erilaz Version 0.5
+- 308 glyphs.
+
+4 August 2020 (Eyvar Tjörvason) Erilaz Version 0.001
+- First build. 93 glyphs.
+
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web
+address (W) and description (D). This list is in alphabetical order.
+
+N: Eyvar Tjörvason
+E: eyvar.tjorvason@gmail.com
+W: https://github.com/ristir/erilaz-runic-font
+D: Original designer
