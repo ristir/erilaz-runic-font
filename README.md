@@ -25,6 +25,25 @@ runes, cipher runes, tent runes (*tjaldrúnir*) and a set of bind runes.
 Where a variant comes from a particular monument, it is recorded in
 [documentation/sources.md](documentation/sources.md).
 
+## Examples
+
+Inscriptions set in Erilaz, with the editorial apparatus a runic text needs:
+brackets for uncertain readings, dashes for lost characters, ellipses for
+lacunae, and the arcs of bind runes.
+
+| | |
+|---|---|
+| ![Rök stone](documentation/examples/Rokstenen_Og136.png) | ![Eggja stone](documentation/examples/Eggjasteinen_NKJ101.png) |
+| **Rök stone**, Ög 136, Östergötland, 800–899 | **Eggja stone**, N KJ101, Sogndal, 650–700 |
+| ![Sønder Kirkeby](documentation/examples/Kirkeby-sten_DR220.png) | ![Bergen rune-stick](documentation/examples/Bergen_NB145.png) |
+| **Sønder Kirkeby stone**, DR 220, Falster, 950–1000 | **Bergen rune-stick**, N B145, Bryggen, 1225–1250 |
+
+The Rök stone exercises the cipher features: `cv09`, `cv11` and the tent
+runes of `cv12`–`cv13`.
+
+Readings follow the standard published editions; they are given as
+typesetting samples, not as new readings.
+
 ## OpenType features
 
 | Feature | What it does |
